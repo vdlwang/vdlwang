@@ -1,12 +1,10 @@
-# Seja bem vindo(a) ao meu github!
+# Welcome!
+## About me
+- Computer Engineering 5th year student from Escola Politécnica Universidade de São Paulo (Poli. USP)
 
-## Sobre mim
-- Aluno no terceiro ano de engenharia da computação da USP
-  - Conhecimento de liguagens como C, Java e Python
-
-## Contatos
-- email: victorlimawang@usp.br
-<!---
-vdlwang/vdlwang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Programming experience
+- Programming languages: C#, Python, C, Java, JavaScript, TypeScript, React
+- Programming tools: Git, Linux, Visual Studio, SQL Server Management, ModelSim, Quartus
+- Hardware Description language: VHDL
+## Contacts
+- university email: victorlimawang@usp.br
