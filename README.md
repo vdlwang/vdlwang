@@ -7,4 +7,5 @@
 - Programming tools: Git, Linux, Visual Studio, SQL Server Management, ModelSim, Quartus
 - Hardware Description language: VHDL
 ## Contacts
-- university email: victorlimawang@usp.br
+- University email: victorlimawang@usp.br
+- Linkedin: https://www.linkedin.com/in/victor-de-lima-wang/
